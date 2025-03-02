@@ -7,3 +7,6 @@ inizzializzazione repo completata. grazie a vincenzostandard
 Cominciate le uv del jetpack
 18:35 19:31
 
+02 03 25
+Jetpack, Spalle, Accessori uv finite, Assegnati Aistandardsurface
+16:55 18:47
