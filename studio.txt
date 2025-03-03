@@ -10,3 +10,9 @@ Cominciate le uv del jetpack
 02 03 25
 Jetpack, Spalle, Accessori uv finite, Assegnati Aistandardsurface
 16:55 18:47
+
+03 03 2025
+5:00 6:07
+
+Inizio colorazione Spalle, Accessori, Jetpack, Testa
+17:18
